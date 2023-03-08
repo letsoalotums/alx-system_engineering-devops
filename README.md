@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-shell 19
+My first SE readme
